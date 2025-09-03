@@ -23,13 +23,13 @@
 
 ## 📂 Projects
 
-### 1️⃣ [SQL_Music_Store_Analysis](https://github.com/Lax-shetty/SQL_Music_Store_Analysis)  
+### 1️⃣ [SQL_Music_Store_Analysis] 
 - 🔍 Analyzed an online music store database using PostgreSQL  
 - 📊 Explored customer behavior, sales trends, and track popularity  
 - 💡 **Key Insight:** Identified top customers and high-revenue tracks  
 - ⚡ Demonstrates SQL, data aggregation, and analytical thinking  
 
-### 2️⃣ [Adidas Performance Dashboard]([link-to-repo-if-any](https://github.com/Lax-shetty/Adidas-Sales-Analysis-PowerBI))  
+### 2️⃣ [Adidas Performance Dashboard] 
 - 📈 Built an interactive Power BI dashboard to analyze global sales by region & product category  
 - 🎯 Used **DAX, slicers, and KPIs** to uncover top-performing markets  
 - 💡 **Key Insight:** Revealed top 3 regions driving 60% of global sales  
@@ -44,5 +44,5 @@ Leverage **SQL, Power BI, and analytical skills** to deliver actionable insights
 
 ## 📫 Connect
 - [GitHub](https://github.com/Lax-shetty)  
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/laxmi-shetty/))  
+- [LinkedIn]((https://www.linkedin.com/in/laxmi-shetty/))  
 - Email: laxmisshetty2602@gmail.com
