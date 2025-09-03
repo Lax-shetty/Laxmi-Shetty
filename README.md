@@ -44,5 +44,5 @@ Leverage **SQL, Power BI, and analytical skills** to deliver actionable insights
 
 ## 📫 Connect
 - [GitHub](https://github.com/Lax-shetty)  
-- [LinkedIn]((https://www.linkedin.com/in/laxmi-shetty/))  
+- [LinkedIn](https://www.linkedin.com/in/laxmi-shetty/)
 - Email: laxmisshetty2602@gmail.com
